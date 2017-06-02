@@ -1,0 +1,35 @@
+{
+    "name": "es2017-matrix-rain",
+    "version": "0.0.1",
+    "description": "An example of ES2015+ code generating Matrix Rain background",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon node_modules/.bin/eslint *.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/azder/ES2017-Matrix-Rain.git"
+    },
+    "keywords": [
+        "es2015",
+        "es2016",
+        "es2017",
+        "matrix",
+        "matrix",
+        "rain",
+        "rain",
+        "background",
+        "es6"
+    ],
+    "author": "azder",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/azder/ES2017-Matrix-Rain/issues"
+    },
+    "homepage": "https://github.com/azder/ES2017-Matrix-Rain#readme",
+    "devDependencies": {
+        "@azhder/eslint-config-azder": "0.0.3",
+        "eslint": "^3.19.0"
+    }
+}
