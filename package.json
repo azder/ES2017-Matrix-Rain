@@ -1,7 +1,7 @@
 {
     "name": "es2017-matrix-rain",
     "version": "0.0.1",
-    "description": "An example of ES2015+ code generating Matrix Rain background",
+    "description": " An example of ES2015+ code used to generate Matrix Rain",
     "main": "index.js",
     "scripts": {
         "dev": "nodemon node_modules/.bin/eslint *.js",
@@ -16,8 +16,7 @@
         "es2016",
         "es2017",
         "matrix",
-        "matrix",
-        "rain",
+        "matrix-rain",
         "rain",
         "background",
         "es6"
